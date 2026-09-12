@@ -38,3 +38,21 @@
 | Hotswap Sockets | Allow switches to be swapped without soldering | 1 | $6.68 | Gateron |
 | **Total** | | | **$153.51** | |
 
+--- 
+### Assembly
+* First you need to soulder the smaller components (the diodes and capacitors) just for your sanity because later it will get harder.
+* The secpnd smallest thingyou need to soulder many of are the LEDs.
+* After that you are free to soulder the hotswap sockets.
+* The chip can be souldered at any time.
+* The keys and kaycaps must be placed after the PCB is put into the case and secured with the top case.
+
+--- 
+### Known problems
+* The code is almost entirely made by claude because I dont have the chip with me and I cant write the code.
+
+--- 
+### Credits
+* Designed and built by *(Anton/ Anton-2785-bit)
+* Inspired by open‑source mechanical keyboard and hackpad communities (https://forge.hackclub.com/).
+
+
