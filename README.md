@@ -1,10 +1,26 @@
-<img width="1856" height="943" alt="schematic" src="https://github.com/user-attachments/assets/b90a6952-ea01-4df5-8bfb-0faf8e1246b1" />
-<img width="1648" height="606" alt="PCB" src="https://github.com/user-attachments/assets/d22e1e9a-aa21-4ba9-868e-9b4c45742f12" />
-<img width="1985" height="557" alt="Assembly" src="https://github.com/user-attachments/assets/3afadce5-a0af-43e0-92be-0e6b58b5aa6a" />
-<img width="1798" height="966" alt="3d model PCB" src="https://github.com/user-attachments/assets/cd5bc56f-819a-4187-94a7-e075a72ed67e" />
-# Anton-s-Keyboard_Macondo
-A keyboard, that has similar layout as the 1800 compact
+# Anton's kayboard
+--- 
+### What is this project
+* This is a keyboar that uses thr 1800 compact layout (an almost 100% keyboard without most of the keys between the enter and the numpad). This keyboard uses an rp2040 chip for its 30 gpio pins that make the making of the keyboard PCB layout easier. Bellow every hotswapable key there is a LED that is wired to every other one and can be controlled with code. 
+<img width="1098" height="566" alt="3d model PCB" src="https://github.com/user-attachments/assets/cd5bc56f-819a-4187-94a7-e075a72ed67e" />
 
+--- 
+### Why I made this project
+* I made this keyboard because I wanted to try a bigger more complx PCB that I would be able to use everyday.
+* Also I wanted to update my keyboard with one that I made.
+
+--- 
+### Images
+* The schematic for the PCB
+<img width="1856" height="943" alt="schematic" src="https://github.com/user-attachments/assets/b90a6952-ea01-4df5-8bfb-0faf8e1246b1" />
+* The layout and the PCB
+<img width="1648" height="606" alt="PCB" src="https://github.com/user-attachments/assets/d22e1e9a-aa21-4ba9-868e-9b4c45742f12" />
+* The 3D model of the case and assembly of the keyboard
+* 
+<img width="1985" height="557" alt="Assembly" src="https://github.com/user-attachments/assets/3afadce5-a0af-43e0-92be-0e6b58b5aa6a" />
+
+--- 
+### BOM
 | Component | Purpose | Qty | Total Cost (USD) | Distributor |
 |-----------|---------|:---:|:----------------:|-------------|
 | Gateron Stabilizer | Prevents larger switches from wobbling | 1 | $9.45 | Gateron |
@@ -21,3 +37,4 @@ A keyboard, that has similar layout as the 1800 compact
 | Gateron Switches | The switches you type on | 1 | $29.00 | Gateron |
 | Hotswap Sockets | Allow switches to be swapped without soldering | 1 | $6.68 | Gateron |
 | **Total** | | | **$153.51** | |
+
