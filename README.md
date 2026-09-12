@@ -4,6 +4,7 @@
 <img width="1798" height="966" alt="3d model PCB" src="https://github.com/user-attachments/assets/cd5bc56f-819a-4187-94a7-e075a72ed67e" />
 # Anton-s-Keyboard_Macondo
 A keyboard, that has similar layout as the 1800 compact
+
 | Component | Purpose | Qty | Total Cost (USD) | Distributor |
 |-----------|---------|:---:|:----------------:|-------------|
 | Gateron Stabilizer | Prevents larger switches from wobbling | 1 | $9.45 | Gateron |
