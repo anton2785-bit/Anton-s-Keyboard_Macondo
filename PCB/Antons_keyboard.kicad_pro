@@ -491,7 +491,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Antons_keyboard_Macondo.kicad_pro",
+    "filename": "Antons_keyboard.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -650,8 +650,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Antons_keyboard_Macondo.kicad_sch",
-        "name": "Root",
+        "filename": "Antons_keyboard.kicad_sch",
+        "name": "Antons_keyboard",
         "uuid": "e2e0c33e-e5cd-473f-8fe8-76856a17ac6e"
       }
     ],
