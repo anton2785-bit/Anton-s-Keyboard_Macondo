@@ -13,6 +13,8 @@
 ### Images
 * The schematic for the PCB
 <img width="1856" height="943" alt="schematic" src="https://github.com/user-attachments/assets/b90a6952-ea01-4df5-8bfb-0faf8e1246b1" />
+* The schematic for the hierarchal sheets and what is in it
+<img width="2559" height="1391" alt="Shematic herarcial sheets" src="https://github.com/user-attachments/assets/fde748ed-015c-4b37-9099-da376ab33808" />
 * The layout and the PCB
 <img width="1648" height="606" alt="PCB" src="https://github.com/user-attachments/assets/d22e1e9a-aa21-4ba9-868e-9b4c45742f12" />
 * The 3D model of the case and assembly of the keyboard
